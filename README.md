@@ -25,3 +25,4 @@ El repositorio se me crea y descarga dentro de esta carpeta generando una nueva 
 
 6.Fuerzo fallos, para ver que pasa, hago commit en github y aqui en el readme y a ver que pasa.
 
+(./img/Captura5.PNG)
