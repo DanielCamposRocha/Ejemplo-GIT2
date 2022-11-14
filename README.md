@@ -20,3 +20,6 @@ El repositorio se me crea y descarga dentro de esta carpeta generando una nueva 
 
 4. Muevo los archivos a la carpeta original
 5. Hago push
+
+6.Fuerzo fallos, para ver que pasa, hago commit en github y aqui en el readme y a ver que pasa.
+
